@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Dashboard",
+        "path": "/dashboard",
+        "icon": "dashboard"
+    },
+    {
+        "name": "Supplier",
+        "path": "/supplier",
+        "icon": "supplier"
+    },
+    {
+        "name": "Category",
+        "path": "/category",
+        "icon": "category"
+    },
+    {
+        "name": "Stocks",
+        "path": "/stocks",
+        "icon": "stocks"
+    },
+    {
+        "name": "Defective",
+        "path": "/defective",
+        "icon": "defective"
+    },
+    {
+        "name": "Users",
+        "path": "/users",
+        "icon": "users"
+    },
+    {
+        "name": "Settings",
+        "path": "/settings",
+        "icon": "settings"
+    }
+]

@@ -1,0 +1,49 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Libre Franklin", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+label,
+p,
+input,
+select,
+button {
+    font-family: "Mukta Vaani", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+textarea,
+select,
+input {
+    outline: none;
+}
+button {
+    cursor: pointer;
+}
+li {
+    list-style: none;
+}
+tspan,
+title,
+span {
+    font-family: "Mukta Vaani", serif !important;
+    font-weight: bold !important;
+    color: #899499 !important;
+}
